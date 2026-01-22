@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+media/
+work/*
+!work/postfx.json
+!work/_concat_list.txt

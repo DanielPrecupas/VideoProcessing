@@ -1,0 +1,2 @@
+file 'd:/OPENCV/work/_norm/norm_0000.mp4'
+file 'd:/OPENCV/work/_norm/norm_0001.mp4'

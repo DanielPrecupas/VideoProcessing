@@ -1,0 +1,14 @@
+{
+  "mode": "posterize",
+  "posterize_levels": 4,
+  "dither": "bayer4",
+  "dither_strength": 0.8,
+  "grain_amount": 0.03,
+  "vignette": 0.12,
+  "caption_enable": true,
+  "caption_pos": "bottom_center",
+  "caption_scale": 1.2,
+  "caption_thickness": 2,
+  "caption_box": true,
+  "caption_box_alpha": 0.7
+}
