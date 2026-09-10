@@ -4,7 +4,7 @@ A small video compositing pipeline built with OpenCV and MediaPipe. It takes a v
 
 ## Backstory
 
-This started as a college project for a computer vision course. I got a bit carried away with it after the semester ended and kept building on it for fun, adding the overlay system, the pose-driven attachment points, the stylized post-processing, and a small GUI so I didn't have to fight the command line every time. What you see here is the personal, post-college version of that assignment.
+This started as a college project for a computer vision course. I got a bit carried away with it after the semester ended and kept building on it for fun, adding the overlay system, the pose-driven attachment points, the stylized post-processing, and a small GUI so I didn't have to mess with the command line every time. So what was left is this version.
 
 ## What it does
 
